@@ -3,7 +3,7 @@
 Cara Pemasangan
 
 1. buka github lalu login
-2. cari di pencarian dzikrirahmadani lalu cari repository input berita, atau cari link ini https://github.com/galihroswandi12/TugasInputBerita
+2. cari di pencarian dzikrirahmadani lalu cari repository input berita, atau cari link ini https://github.com/dzikrirahmadani/TugasInputBerita
 3. Klik tombol code warna hijau
 4. download Zip
 5. jika sudah selesai extract file yang telah di Ddownload
